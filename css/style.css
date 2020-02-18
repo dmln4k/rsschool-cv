@@ -1,0 +1,26 @@
+
+h2 {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+.profile{
+	max-width:1024px;
+	display: block;
+	text-align: center;
+}
+
+.profile img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.profile li {
+	list-style-type: none;
+	 text-color: grey;
+}
+
